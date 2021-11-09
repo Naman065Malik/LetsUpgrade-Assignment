@@ -7,10 +7,6 @@ Addition , Subtraction , Multiplication , Division
 
 You enter two numbers and operator you want to do, it will return the answer.
 """
-
-from typing import AnyStr
-
-
 def Add(num1,num2):
     ans = num1 + num2
     return ans
